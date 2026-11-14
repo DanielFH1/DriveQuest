@@ -1,0 +1,129 @@
+{
+  "duration": 141,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "audio": "none",
+  "privacy": "No participant identities",
+  "scenes": [
+    {
+      "start": 0,
+      "duration": 8,
+      "scene": "intro",
+      "title": "DriveQuest2",
+      "caption": "오늘의 운전을, 내일의 감각으로.",
+      "source": null
+    },
+    {
+      "start": 8,
+      "duration": 9,
+      "scene": "question",
+      "title": "영상으로 나의 운전을\n교정할 수 있다면?",
+      "caption": "운전이 끝난 뒤, 돌아볼 시간이 시작됩니다.",
+      "source": null
+    },
+    {
+      "start": 17,
+      "duration": 7,
+      "scene": "welcome",
+      "title": "주차를 마치고,\n나를 위한 시간.",
+      "caption": "오늘의 주행을\n함께 확인해볼까요?",
+      "source": "welcome-clean.mp4"
+    },
+    {
+      "start": 24,
+      "duration": 12,
+      "scene": "today",
+      "title": "하루의 운전.\n한눈에.",
+      "caption": "요약을 읽고,\n마음에 걸린 회전을 찾습니다.",
+      "source": "today-clean.png"
+    },
+    {
+      "start": 36,
+      "duration": 7,
+      "scene": "find",
+      "title": "기억에 남은 회전부터.",
+      "caption": "좌회전 · 우회전 · 유턴 · 커브",
+      "source": null
+    },
+    {
+      "start": 43,
+      "duration": 9,
+      "scene": "library",
+      "title": "그때의 순간을\n다시 선택.",
+      "caption": "시간순으로 정리된\n24개의 회전 장면.",
+      "source": "today-clean.png"
+    },
+    {
+      "start": 52,
+      "duration": 8,
+      "scene": "compare",
+      "title": "두 경로를,\n같은 장면에서.",
+      "caption": "어디에서 달라졌는지 천천히 살펴봅니다.",
+      "source": null
+    },
+    {
+      "start": 60,
+      "duration": 11,
+      "scene": "left",
+      "title": "지나온 선과,\n비교할 선.",
+      "caption": "초록 실선은 비교 경로.\n주황 점선은 주행 경로.",
+      "source": "left-clean.mp4"
+    },
+    {
+      "start": 71,
+      "duration": 11,
+      "scene": "right",
+      "title": "한 번 더.\n이번에는 천천히.",
+      "caption": "멈추고, 되돌리고,\n차이가 생긴 지점을 봅니다.",
+      "source": "right-clean.mp4"
+    },
+    {
+      "start": 82,
+      "duration": 8,
+      "scene": "change",
+      "title": "오늘의 한 장면이,\n한 달의 흐름으로.",
+      "caption": "한 번의 점수보다, 반복되는 습관을 봅니다.",
+      "source": null
+    },
+    {
+      "start": 90,
+      "duration": 12,
+      "scene": "monthly",
+      "title": "변화를\n읽는 시간.",
+      "caption": "회전별 정확도와\n월간 기록을 함께 확인합니다.",
+      "source": "monthly-clean.mp4"
+    },
+    {
+      "start": 102,
+      "duration": 7,
+      "scene": "habit",
+      "title": "다음 운전에서\n바꿀 한 가지.",
+      "caption": "작은 실천이 이어지도록.",
+      "source": null
+    },
+    {
+      "start": 109,
+      "duration": 11,
+      "scene": "achievements",
+      "title": "돌아보는 습관을\n계속할 이유.",
+      "caption": "신호, 정지선, 방향지시등.\n도전과제로 다시 떠올립니다.",
+      "source": "achievements-clean.png"
+    },
+    {
+      "start": 120,
+      "duration": 12,
+      "scene": "scope",
+      "title": "현재는 화면으로.\n다음은 실제 기록으로.",
+      "caption": "Pleos에서 실행한 프로토타입입니다.\n영상과 수치는 콘셉트 데이터이며, 실주행 수집·분석은 다음 단계입니다.",
+      "source": null
+    },
+    {
+      "start": 132,
+      "duration": 9,
+      "scene": "end",
+      "title": "DriveQuest2",
+      "caption": "오늘의 운전을, 내일의 감각으로.",
+      "source": null
+    }
+  ]
+}

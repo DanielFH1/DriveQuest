@@ -1,0 +1,111 @@
+{
+  "duration_seconds": 40,
+  "fps": 30,
+  "reference_times": [
+    "4:43",
+    "5:50",
+    "7:48",
+    "13:30"
+  ],
+  "music": {
+    "title": "Dream Culture",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046",
+    "edits": "40-second excerpt from 00:08; normalized to -23 LUFS; fade in/out"
+  },
+  "scenes": [
+    {
+      "key": "intro",
+      "duration": 5,
+      "title": "영상으로 나의 운전을\n교정할 수 있다면?",
+      "start": 0
+    },
+    {
+      "key": "today-overview",
+      "duration": 3,
+      "title": "오늘의 주행",
+      "file": "today.png",
+      "overview": true,
+      "start": 5
+    },
+    {
+      "key": "summary",
+      "duration": 4,
+      "title": "오늘의 주행 요약",
+      "body": "잘한 점과 아쉬운 점을\n먼저 짚어봅니다.",
+      "file": "today.png",
+      "crop": [
+        40,
+        149,
+        1100,
+        332
+      ],
+      "start": 8
+    },
+    {
+      "key": "events",
+      "duration": 4,
+      "title": "영상으로 돌아보기",
+      "body": "기억에 남은 회전을\n시간으로 찾아봅니다.",
+      "file": "today.png",
+      "crop": [
+        40,
+        561,
+        1000,
+        853
+      ],
+      "start": 12
+    },
+    {
+      "key": "playback",
+      "duration": 8,
+      "title": "주행 경로 비교",
+      "body": "두 선이 벌어지는\n지점을 살펴봅니다.",
+      "video": "left-clean.mp4",
+      "start": 16
+    },
+    {
+      "key": "skills-overview",
+      "duration": 3,
+      "title": "내 주행실력",
+      "file": "monthly.png",
+      "overview": true,
+      "start": 24
+    },
+    {
+      "key": "monthly",
+      "duration": 4,
+      "title": "이번 달 주행 기록",
+      "body": "어떤 날이 좋았는지,\n한 달의 흐름을 봅니다.",
+      "file": "monthly.png",
+      "crop": [
+        40,
+        156,
+        855,
+        496
+      ],
+      "start": 27
+    },
+    {
+      "key": "missions",
+      "duration": 4,
+      "title": "도전과제",
+      "body": "다음 운전에서 지킬\n작은 목표를 정합니다.",
+      "file": "achievements.png",
+      "crop": [
+        40,
+        492,
+        832,
+        704
+      ],
+      "start": 31
+    },
+    {
+      "key": "end",
+      "duration": 5,
+      "title": "DriveQuest2",
+      "start": 35
+    }
+  ]
+}

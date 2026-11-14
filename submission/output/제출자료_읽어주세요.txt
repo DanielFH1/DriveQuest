@@ -1,0 +1,22 @@
+DriveQuest2 새 제작본 · DriveQuest1 원본 보존
+
+1. DriveQuest2-demo.mp4: 설명 카드와 실제 에뮬레이터 화면으로 구성한 공개 시연 영상. 무음, 참가자 실명 없음.
+2. DriveQuest2-제품소개.pdf / .docx: 같은 내용의 추가 소개서. 공식 접수양식을 대신하지 않음.
+3. ../templates/DriveQuest2-접수양식_본인정보서명필요.docx: 공식 원본의 항목·순서를 유지한 기획 내용 작성본.
+4. ../templates/접수메일_초안.txt: 사용자가 완성해 보낼 메일.
+5. DriveQuest2-DEMO_GUIDE.txt: 시연 순서와 구현 범위.
+
+보내기 전
+[ ] 대표자·팀원 정보, 역할, 인원, 날짜를 본인이 작성
+[ ] 참가자 전원 동의 여부와 본인 서명·서명일 작성
+[ ] DOCX를 Word/LibreOffice에서 열어 페이지 나눔과 빈칸 확인
+[ ] 소스와 실행 가능한 서명된 release APK 준비: 현재 앱 검증본은 debug이며 이 묶음에 제출 APK는 포함하지 않음
+[ ] 공개 링크와 APK 경로 확정; GitHub 방식이면 최종 commit hash도 기재
+[ ] 공유 자료에 실명·연락처·비밀키가 없는지 확인
+[ ] 팀원 전원 CC, 첨부파일 확인 후 직접 이메일 발송
+
+공식 재확인일: 2026-11-14. 마감: 2026-11-15 23:59 KST.
+필수: 공식 접수양식 및 참가자별 동의·서명. 영상·소스/APK·추가 소개서는 선택 자료.
+commit hash 하나만으로는 접수가 완료되지 않습니다.
+근거: https://appdevchallenge.auto-hmg.io/guide/submission
+추가 안내: https://appdevchallenge.auto-hmg.io/notice/c0a1a000-2026-4923-8000-000000000007

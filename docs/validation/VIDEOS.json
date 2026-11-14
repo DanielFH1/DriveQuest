@@ -1,0 +1,122 @@
+[
+  {
+    "file": "ev01.mp4",
+    "sha256": "1c15f64c22869015ccc6752ed0754a9a4f54be8d535980cc6e435f8fa0c21e68",
+    "bytes": 757662
+  },
+  {
+    "file": "ev02.mp4",
+    "sha256": "698b17beea8595cd30b5a93cdb1f554268b31e08e2e7df3593d33ede55aedd03",
+    "bytes": 747316
+  },
+  {
+    "file": "ev03.mp4",
+    "sha256": "f84af0803ca48a05ce67724926c1d94e535671be77c1008c357ed5b4e8f8d3b1",
+    "bytes": 754389
+  },
+  {
+    "file": "ev04.mp4",
+    "sha256": "fc231cabdaf892bd640a8e4419c6ba2eba544ddd3bd0fecca4b6682c26f1a7ad",
+    "bytes": 743057
+  },
+  {
+    "file": "ev05.mp4",
+    "sha256": "d9e2c41dc424dc9e3c2e06b92afbb1a8a243c1a003e10c3c2ffa9b2950335e87",
+    "bytes": 812097
+  },
+  {
+    "file": "ev06.mp4",
+    "sha256": "7e6caa4dbc59292819ffa96d82b0e8638f32a4b0aac7729811a6487ee47b4803",
+    "bytes": 1173733
+  },
+  {
+    "file": "ev07.mp4",
+    "sha256": "79c40ad95940f2b21cd788631d1f76a4c62ff88efbbfe2748256c45feabd6a3a",
+    "bytes": 748151
+  },
+  {
+    "file": "ev08.mp4",
+    "sha256": "622fad8b713b6b10d05cb72f84204eccb810a4ff2fe0b073079d8838b9fefb8e",
+    "bytes": 748166
+  },
+  {
+    "file": "ev09.mp4",
+    "sha256": "3ee4da427c5311656422d2da885a7a8cc55b5301f406300eb9c6fc43abccb6b8",
+    "bytes": 743994
+  },
+  {
+    "file": "ev10.mp4",
+    "sha256": "862b54fd4d34257402d4cb91ae21e63744176b29864dc962f8b107048b9ecdab",
+    "bytes": 754808
+  },
+  {
+    "file": "ev11.mp4",
+    "sha256": "6db10c3d514c67cbbe2992cc503310845ebd8e51e3232e8394e03e8cac863f25",
+    "bytes": 1164180
+  },
+  {
+    "file": "ev12.mp4",
+    "sha256": "435470984cae89bda164081ce7ea0e03759d0cd056bdef8605368450831bfb03",
+    "bytes": 755070
+  },
+  {
+    "file": "ev13.mp4",
+    "sha256": "49621171055859fc74fd0d554b4d745cde26af312c965f4604d96e3623bb9ff6",
+    "bytes": 771412
+  },
+  {
+    "file": "ev14.mp4",
+    "sha256": "05e737f6260d89e8a2cfc591b7b1cddc20f05c2f129cf889f5bcba399fed6d7e",
+    "bytes": 1171200
+  },
+  {
+    "file": "ev15.mp4",
+    "sha256": "48d5e711bc67ce3cf85d65aaaa2a4babfc67a0dcf3e7defd4713d7739d7e3826",
+    "bytes": 752062
+  },
+  {
+    "file": "ev16.mp4",
+    "sha256": "9e84308e2b28dfe94dab135d8ecea2cfde1db8b235a0bf1df3ce649d73b7ac09",
+    "bytes": 761424
+  },
+  {
+    "file": "ev17.mp4",
+    "sha256": "c6e0c0d0abc19f535bc253f8bb84600642e5af78334b6ca9a82932d47dbe3137",
+    "bytes": 1163218
+  },
+  {
+    "file": "ev18.mp4",
+    "sha256": "c424842756cb4037d57a526275c6a74a0c99f0ec197ca23d46923873d3801c2b",
+    "bytes": 740098
+  },
+  {
+    "file": "ev19.mp4",
+    "sha256": "81a0b56affd018eebed5a3284c7ac725e36345da4c1f24c9a58d015a25842ba7",
+    "bytes": 759108
+  },
+  {
+    "file": "ev20.mp4",
+    "sha256": "681b2d4ae7a9651f71a48a249ac3480fe897a13137427ff923fe864265a0d0cf",
+    "bytes": 818894
+  },
+  {
+    "file": "ev21.mp4",
+    "sha256": "b6b8dfcecac4bc4c1de9bdcf5426c8a3c7af4e7790bd514be46f373ef02a6cb3",
+    "bytes": 730624
+  },
+  {
+    "file": "ev22.mp4",
+    "sha256": "8c0472b8b86874d04603e484917d84fac34983511f75112af467f69beb369ee1",
+    "bytes": 1172129
+  },
+  {
+    "file": "ev23.mp4",
+    "sha256": "1dd6877798aaf10a929bb3119729b3d918fe5fc0d19b8930c1ac0c83e41aa272",
+    "bytes": 750062
+  },
+  {
+    "file": "ev24.mp4",
+    "sha256": "e75853d0fced18ae66fbfa6aef8194d17538f934da17b021193d9b2aa8f5eff0",
+    "bytes": 742224
+  }
+]

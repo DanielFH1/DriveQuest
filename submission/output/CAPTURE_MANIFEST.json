@@ -1,0 +1,13 @@
+{
+  "package": "io.drivequest2.app.debug",
+  "apk_sha256": "965971d4a5c43e14971c6b9614569140c8b41cfbf6843f3da01e0e9f3302632b",
+  "origin": "New captures from the installed DriveQuest2 APK, not DriveQuest1 screenshots",
+  "crop": "App viewport only; no UI reconstruction",
+  "files": {
+    "playback.png": "4efc87de7a5498e83a9f1a09ec2cd7396d5786d15fdb48db9d1c28fd404318c6",
+    "today.png": "a155ee999621cef0086abfcc876770910eeed28dfabde20908dbed6f48348dcf",
+    "monthly.png": "2bcf601573082c2385e0b6944125474b3b4d556c5edd1fec3c4a2846cec7a7c4",
+    "welcome.png": "46b7e3e4e64ba02a3c7aadc6b582fb78a9ea02d9ce5a53b6bcb36abff197b635",
+    "achievements.png": "3342b36ad129d25cbb6716dd36fe1478084fc3e5a52b3399e918ba5b56e8e257"
+  }
+}

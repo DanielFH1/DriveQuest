@@ -1,0 +1,97 @@
+{
+  "duration_seconds": 38,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "audio": "none",
+  "reference": "https://www.youtube.com/watch?v=ykwG0I8UGjg",
+  "reference_usage": "Visual presentation study only; no reference footage/audio/assets incorporated",
+  "editing": "Isolated crops of current UI, single concise heading, short fade/rise entrance, full 10-second playback emphasis",
+  "scenes": [
+    {
+      "key": "intro",
+      "duration": 3,
+      "title": "DriveQuest2",
+      "start": 0
+    },
+    {
+      "key": "question",
+      "duration": 4,
+      "title": "영상으로 나의 운전을\n교정할 수 있다면?",
+      "start": 3
+    },
+    {
+      "key": "summary",
+      "duration": 4,
+      "title": "오늘의 주행 요약",
+      "file": "today.png",
+      "crop": [
+        40,
+        149,
+        1100,
+        332
+      ],
+      "start": 7
+    },
+    {
+      "key": "events",
+      "duration": 4,
+      "title": "돌아보고 싶은 순간",
+      "file": "today.png",
+      "crop": [
+        40,
+        561,
+        1642,
+        853
+      ],
+      "start": 11
+    },
+    {
+      "key": "playback",
+      "duration": 10,
+      "title": "두 경로를 한눈에",
+      "video": "left-clean.mp4",
+      "crop": [
+        927,
+        253,
+        2459,
+        1115
+      ],
+      "start": 15
+    },
+    {
+      "key": "monthly",
+      "duration": 5,
+      "title": "한 달의 변화",
+      "file": "monthly.png",
+      "crop": [
+        40,
+        156,
+        1642,
+        496
+      ],
+      "start": 25
+    },
+    {
+      "key": "missions",
+      "duration": 4,
+      "title": "다음 운전의 작은 목표",
+      "file": "achievements.png",
+      "crop": [
+        40,
+        492,
+        1642,
+        704
+      ],
+      "start": 30
+    },
+    {
+      "key": "end",
+      "duration": 4,
+      "title": "DriveQuest2",
+      "start": 34
+    }
+  ]
+}

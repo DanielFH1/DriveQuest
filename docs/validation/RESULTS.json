@@ -1,0 +1,24 @@
+{
+  "version": "0.3.1-intersections",
+  "unit_tests": 4,
+  "device_ui_tests": 3,
+  "device": "Pleos Connect 2.1.0 API 34 2560x1440 emulator-5554",
+  "lint": {
+    "Warning": 102
+  },
+  "apk_sha256": "965971d4a5c43e14971c6b9614569140c8b41cfbf6843f3da01e0e9f3302632b",
+  "videos": {
+    "count": 24,
+    "duration_seconds_each": 10,
+    "fps": 20,
+    "origin": "Procedurally rendered synthetic scene",
+    "decode": "All passed",
+    "turn_counts": {
+      "left": 8,
+      "right": 9,
+      "uturn": 2,
+      "curve": 5
+    }
+  },
+  "verification_note": "Vivid purple U-turn and lime curve colors. assembleDebug, 4 unit tests, lint, 3 device UI tests passed after instrumentation attach retry. Latest UI recaptured for submission media."
+}

@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 38,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "frames": 1140,
+  "audio": "none",
+  "full_decode": "passed",
+  "sha256": "5cf402d81e6f474cab69b1063ed7a63c9d93885d534b47113ed54f08e26f3a98",
+  "contest_duration_rule": "No duration restriction; official additional notice checked 2026-11-14",
+  "rule_source": "https://appdevchallenge.auto-hmg.io/notice/c0a1a000-2026-4923-8000-000000000007"
+}
